@@ -1,10 +1,9 @@
 #!/usr/bin/python3
-
 """
 avec un peu de confiance, ça va le faire
 """
 
 
-class square:
+class Square:
     """empty class named square"""
     pass
